@@ -1,5 +1,5 @@
 # JavaScript Practices
-
+--
 These projects have been prepared from scratch after watching the [Build 15 JavaScript Projects - Vanilla JavaScript Course](https://www.youtube.com/watch?v=3PHXvlpOkf4) created by John Smilga.
 
 **Projects**
